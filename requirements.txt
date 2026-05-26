@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+langchain-google-genai
+python-dotenv
+streamlit-mic-recorder
